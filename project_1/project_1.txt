@@ -1,0 +1,18 @@
+pwd = print my current working directory
+ls = list the files in my current working directory 
+cd = change directory to my git folder
+
+git clone + https = clone my github directory to my local drive 
+
+mkdir + "project_1" = create a folder titled "project_1" in my directory
+
+touch + project_1.txt = create a text file titled "project_1.txt" in the "project_1" file 
+
+vim + "project_1.txt" = edit the text file 
+esc = exit edit mode
+:wq =  save edits  
+
+git add = move changes to staging 
+git commit = describe changes made 
+git push = upload changes to github repo
+git pull = download/access the most up-to-date version of the repo from github  
